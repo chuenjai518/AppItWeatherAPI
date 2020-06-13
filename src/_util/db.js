@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-mongoose.connect("mongodb://localhost/AppItWeatherAPI", {
+mongoose.connect(process.env.databaseString, {
 	useNewUrlParser: true,
 	useUnifiedTopology: true,
 });

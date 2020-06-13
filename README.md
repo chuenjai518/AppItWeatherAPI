@@ -12,6 +12,8 @@ To get the token used in weather API.
 
 ## Installation
 
+Before starting the project, create a .env file refer to the .env.example file
+
 To start the project.
 
 ```bash
