@@ -24,3 +24,11 @@ To start the project.
 $ npm install
 $ npm start
 ```
+
+## Testing
+
+To test the API calls.
+
+```bash
+$ npm test
+```
